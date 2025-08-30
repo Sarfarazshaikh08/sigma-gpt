@@ -1,7 +1,7 @@
 # SigmaGPT
 A MERN based ChatGPT replica implemented from scratch using OpenAI.
 
-# Installation & Setup
+## Installation & Setup
 
 1. Install dependencies (this will install all required node modules)  
    ```bash
